@@ -1,0 +1,31 @@
+body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+  font-size: 30px;
+  background-color: #f0f8ff;
+  text-align: center;
+  padding: 30vh;
+  }
+
+h1 {
+  color: navy;
+  }
+
+button {
+  font-family: Fjalla One, Arial, Helvetica, sans-serif;
+  padding: 10px 20px;
+  font-size: 21px;
+  background-color: navy;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 20px;
+  box-shadow: 2px 2px 15px gray;
+
+  }
+
+button:hover {
+  background-color: white;
+  color: navy;
+  }
+  
